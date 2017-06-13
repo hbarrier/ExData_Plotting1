@@ -4,7 +4,7 @@
 
 ## ****************************************************************************
 
-# Load the splyr package - due to file size, this provides efficient reading of the data
+# Load the dplyr package - due to file size, this provides efficient reading of the data
 # and displays progress while reading the file
 library(dplyr)
 # Load lubridate to set variable Date in date format- much quicker than strptime
